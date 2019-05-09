@@ -1,0 +1,5 @@
+.vscode/
+.ssh/
+_pycache__/
+*.py[cod]
+*$py.class
